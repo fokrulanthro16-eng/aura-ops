@@ -111,25 +111,43 @@ flowchart TD
 
 ---
 
-## 📸 Production Visual Showcase
+## 📸 Production Visual Showcase & Media Suite
 
 <div align="center">
 
-### 🏭 1. 6-Axis Digital Twin & OSHA Safety Perimeter
-<img src="./docs/assets/hero-workcell.png" alt="AURA-OPS 6-Axis Robotic Twin with Conveyor & OSHA Barrier" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+### 🎬 Executive Showcase Video & Voiceover
+> **AURA-OPS Meta VR Start 2026 Executive Overview Video** (1080p MP4 featuring Microsoft Edge Neural TTS narrative):  
+> 📥 **Download Video**: [`./showcase/AURA_OPS_MetaVR_Showcase.mp4`](./showcase/AURA_OPS_MetaVR_Showcase.mp4) • 🎙️ **Voiceover Audio**: [`./showcase/aura_ops_executive_voiceover.mp3`](./showcase/aura_ops_executive_voiceover.mp3)
+
+<br />
+
+### 🏭 1. Full 6-Axis Digital Twin & OSHA Safety Perimeter
+<img src="./docs/assets/01_workcell_hero.png" alt="AURA-OPS 6-Axis Robotic Twin with Conveyor & OSHA Barrier" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
 <p align="center"><em>Live stereoscopic workcell featuring automated incoming feed chute, active motorized conveyor line, and dynamic OSHA laser clearance perimeter.</em></p>
 
 <br />
 
-### 🧠 2. 3-Tier AI Diagnostic Copilot & Enterprise SAP/CMMS Dispatch
-<img src="./docs/assets/ai-diagnostic-hud.png" alt="AURA-OPS Enterprise CMMS Work Order & OEE Telemetry" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
-<p align="center"><em>Real-time AI diagnostic modal with failure physics analysis, recommended spare part SKUs (e.g. NSK bearings), assigned field crews, and 1-click incident JSON export.</em></p>
+### 🔄 2. 7-Phase Automated Pick & Place Kinematics
+<img src="./docs/assets/02_pick_and_place.png" alt="AURA-OPS Pick and Place Motion with Active Conveyor Payload" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+<p align="center"><em>Close-up tool perspective tracking the pneumatic parallel gripper lifting machined workpieces and transferring to the discharge conveyor.</em></p>
 
 <br />
 
-### 💥 3. Radial Assembly Exploded View (Internal Inspection)
-<img src="./docs/assets/exploded-view.png" alt="AURA-OPS Radial Disassembly Exploded View" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+### 🧠 3. Holographic AI Scanner Ring & OEE Telemetry Sparklines
+<img src="./docs/assets/03_ai_scanner_diagnostic.png" alt="AURA-OPS Holographic AI Laser Scanner and Live OEE Telemetry" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+<p align="center"><em>Active volumetric cyan laser scan ring traversing the robotic arm during 3-Tier AI diagnostic evaluation, paired with rolling 30s SVG vibration and thermal sparklines.</em></p>
+
+<br />
+
+### 💥 4. Radial Assembly Exploded View (Internal Inspection)
+<img src="./docs/assets/04_radial_exploded_view.png" alt="AURA-OPS Radial Disassembly Exploded View" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
 <p align="center"><em>Radial joint disassembly mode isolating harmonic drives, bearings, and pneumatic clamps for internal mechanical stress verification.</em></p>
+
+<br />
+
+### 📋 5. Enterprise SAP/CMMS Maintenance Dispatch Ticket
+<img src="./docs/assets/05_sap_cmms_dispatch.png" alt="AURA-OPS Enterprise CMMS Work Order & OEE Telemetry" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+<p align="center"><em>Real-time AI diagnostic modal with failure physics analysis, recommended spare part SKUs (e.g. NSK bearings), assigned field crews, and 1-click incident JSON export.</em></p>
 
 </div>
 
