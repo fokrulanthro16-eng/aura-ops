@@ -1,0 +1,31 @@
+# Dependencies
+node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Next.js Build Outputs
+.next
+out
+build
+
+# Version Control
+.git
+.gitignore
+
+# Environment & Secrets (Crucial: Keep local keys private)
+.env*.local
+.env
+.env.production.local
+.env.development.local
+
+# Documentation & IDE
+docs/
+.vscode/
+.idea/
+*.md
+!README.md
+
+# OS Artifacts
+.DS_Store
+Thumbs.db

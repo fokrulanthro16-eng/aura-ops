@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  aura-ops:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: aura-ops-digital-twin
+    ports:
+      - "3000:3000"
+    environment:
+      - NODE_ENV=production
+      - PORT=3000
+      - NEBIUS_API_KEY=${NEBIUS_API_KEY:-}
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-}
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "-X", "POST", "http://localhost:3000/api/diagnostics", "-H", "Content-Type: application/json", "-d", "{\"coreTemp\":45,\"vibration\":1.0,\"spindleRpm\":1400,\"jointAngles\":{},\"status\":\"NORMAL\"}"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 15s
