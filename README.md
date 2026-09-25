@@ -5,6 +5,7 @@
 **Meta VR Start Developer Competition 2026**
 
 [![Meta VR Start 2026](https://img.shields.io/badge/Meta_VR_Start-2026_Submission-0668E1?style=for-the-badge&logo=meta&logoColor=white)](https://devpost.com)
+[![Live Vercel Demo](https://img.shields.io/badge/Live_Demo-aura--ops--sand.vercel.app-00f0ff?style=for-the-badge&logo=vercel&logoColor=black)](https://aura-ops-sand.vercel.app)
 [![WebXR Hand Tracking](https://img.shields.io/badge/WebXR-6DoF_Hand_Tracking-00f0ff?style=for-the-badge&logo=webxr&logoColor=black)](https://immersiveweb.dev/)
 [![Next.js 14](https://img.shields.io/badge/Next.js_14-App_Router-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -13,6 +14,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
+  <a href="https://aura-ops-sand.vercel.app"><strong>🌐 Launch Live WebXR App</strong></a> •
   <a href="#-key-features">Key Features</a> •
   <a href="#-system-architecture">System Architecture</a> •
   <a href="#-industrial-capabilities-matrix">Capabilities</a> •

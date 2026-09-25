@@ -1,6 +1,9 @@
 # 🚀 AURA-OPS: WebXR Industrial Digital Twin & Autonomous Telemetry Copilot
 ### Meta VR Start Developer Competition 2026 Official Submission
 
+🌐 **Live Production Deployment**: [https://aura-ops-sand.vercel.app](https://aura-ops-sand.vercel.app)  
+💻 **GitHub Repository**: [https://github.com/fokrulanthro16-eng/aura-ops](https://github.com/fokrulanthro16-eng/aura-ops)
+
 ---
 
 ## 💡 Inspiration: The \$50 Billion Industrial Blindspot
