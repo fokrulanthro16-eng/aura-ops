@@ -22,7 +22,7 @@
   <a href="./docs/HACKATHON_DEVPOST.md">Devpost Writeup</a>
 </p>
 
-![Aura-Ops Hero Preview](./docs/assets/hero_workcell.png)
+<img src="./docs/assets/hero-workcell.png" alt="AURA-OPS 6-Axis WebXR Digital Twin" width="100%" style="border-radius: 12px; border: 1px solid #334155; margin-top: 16px; box-shadow: 0 0 30px rgba(0, 240, 255, 0.2);" />
 
 </div>
 
@@ -106,6 +106,30 @@ flowchart TD
 * **4-Channel Industrial Multi-Perspective Camera Rig**: Smoothly lerps between Isometric Workcell (`CAM 1`), Tool End-Effector (`CAM 2`), Overhead Crane (`CAM 3`), and Standing Operator Perspective (`CAM 4`).
 * **Factory Floor Safety Perimeter**: Dynamic OSHA safety cage with corner bollards, acrylic shield panes, and status-colored laser tripwires that pulse crimson during emergency stops.
 * **Zero-Dependency Procedural Web Audio Engine**: Browser-native Web Audio API synthesizer generating realistic harmonic servo whines, pneumatic clamp hisses, relay clicks, and two-tone industrial warning sirens with global gesture unlocking.
+
+---
+
+## 📸 Production Visual Showcase
+
+<div align="center">
+
+### 🏭 1. 6-Axis Digital Twin & OSHA Safety Perimeter
+<img src="./docs/assets/hero-workcell.png" alt="AURA-OPS 6-Axis Robotic Twin with Conveyor & OSHA Barrier" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+<p align="center"><em>Live stereoscopic workcell featuring automated incoming feed chute, active motorized conveyor line, and dynamic OSHA laser clearance perimeter.</em></p>
+
+<br />
+
+### 🧠 2. 3-Tier AI Diagnostic Copilot & Enterprise SAP/CMMS Dispatch
+<img src="./docs/assets/ai-diagnostic-hud.png" alt="AURA-OPS Enterprise CMMS Work Order & OEE Telemetry" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+<p align="center"><em>Real-time AI diagnostic modal with failure physics analysis, recommended spare part SKUs (e.g. NSK bearings), assigned field crews, and 1-click incident JSON export.</em></p>
+
+<br />
+
+### 💥 3. Radial Assembly Exploded View (Internal Inspection)
+<img src="./docs/assets/exploded-view.png" alt="AURA-OPS Radial Disassembly Exploded View" width="100%" style="border-radius: 10px; border: 1px solid #334155;" />
+<p align="center"><em>Radial joint disassembly mode isolating harmonic drives, bearings, and pneumatic clamps for internal mechanical stress verification.</em></p>
+
+</div>
 
 ---
 

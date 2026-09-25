@@ -34,6 +34,18 @@ AURA-OPS is an enterprise-grade cyber-physical twin running inside the Meta Ques
 * **Factory Floor Safety Perimeter**: Dynamic OSHA safety cage with corner bollards, acrylic shield panes, and status-colored laser tripwires that pulse crimson during emergency stops.
 * **Zero-Dependency Procedural Web Audio Engine**: Browser-native Web Audio API synthesizer generating realistic harmonic servo whines, pneumatic clamp hisses, relay clicks, and two-tone industrial warning sirens with global gesture unlocking.
 
+### 📸 Live Interface & Spatial Workcell Visuals
+
+| 🏭 Operational Workcell Overview | 🧠 AI Diagnostics & CMMS Dispatch |
+| :---: | :---: |
+| <img src="./assets/hero-workcell.png" width="100%" /> | <img src="./assets/ai-diagnostic-hud.png" width="100%" /> |
+| **OSHA Safety Perimeter & Conveyor Line** | **3-Tier AI Diagnostic Reasoning & SAP Dispatch** |
+
+<div align="center">
+  <img src="./assets/exploded-view.png" width="85%" />
+  <p><em>Radial assembly exploded view isolating internal harmonic drives and bearing joints for mechanical stress inspection.</em></p>
+</div>
+
 ---
 
 ## 🛠️ How We Built It
