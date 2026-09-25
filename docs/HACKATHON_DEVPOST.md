@@ -2,7 +2,21 @@
 ### Meta VR Start Developer Competition 2026 Official Submission
 
 🌐 **Live Production Deployment**: [https://aura-ops-sand.vercel.app](https://aura-ops-sand.vercel.app)  
-💻 **GitHub Repository**: [https://github.com/fokrulanthro16-eng/aura-ops](https://github.com/fokrulanthro16-eng/aura-ops)
+💻 **GitHub Repository**: [https://github.com/fokrulanthro16-eng/aura-ops](https://github.com/fokrulanthro16-eng/aura-ops)  
+📺 **Official YouTube Demo**: [https://youtu.be/swjDHoW6uAA](https://youtu.be/swjDHoW6uAA)
+
+---
+
+## 📺 Official Demo Video
+
+<div align="center">
+
+[![AURA-OPS MetaVR Showcase](https://img.youtube.com/vi/swjDHoW6uAA/maxresdefault.jpg)](https://youtu.be/swjDHoW6uAA)
+
+<p><em>Click the banner above to watch the official AURA-OPS MetaVR 1080p Showcase Video on YouTube.</em></p>
+<p><strong>Direct Video URL</strong>: <a href="https://youtu.be/swjDHoW6uAA">https://youtu.be/swjDHoW6uAA</a></p>
+
+</div>
 
 ---
 
@@ -43,7 +57,7 @@ AURA-OPS is an enterprise-grade cyber-physical twin running inside the Meta Ques
 
 #### 🎬 Executive Showcase Video & Voiceover
 > **AURA-OPS Meta VR Start 2026 Executive Overview Video** (1080p MP4 with Microsoft Edge Neural TTS voiceover):  
-> 📥 **Download Video**: [`../showcase/AURA_OPS_MetaVR_Showcase.mp4`](../showcase/AURA_OPS_MetaVR_Showcase.mp4) • 🎙️ **Voiceover Audio**: [`../showcase/aura_ops_executive_voiceover.mp3`](../showcase/aura_ops_executive_voiceover.mp3)
+> 📺 **Watch on YouTube (1080p)**: [https://youtu.be/swjDHoW6uAA](https://youtu.be/swjDHoW6uAA) • 📥 **Download Video**: [`../showcase/AURA_OPS_MetaVR_Showcase.mp4`](../showcase/AURA_OPS_MetaVR_Showcase.mp4) • 🎙️ **Voiceover Audio**: [`../showcase/aura_ops_executive_voiceover.mp3`](../showcase/aura_ops_executive_voiceover.mp3)
 
 <br />
 

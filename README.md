@@ -11,10 +11,12 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Three.js](https://img.shields.io/badge/Three.js-R3F-black?style=for-the-badge&logo=threedotjs&logoColor=white)](https://threejs.org/)
 [![Docker](https://img.shields.io/badge/Docker-Multi--Stage_Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![YouTube Demo](https://img.shields.io/badge/YouTube-Official_Demo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/swjDHoW6uAA)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 <p align="center">
   <a href="https://aura-ops-sand.vercel.app"><strong>🌐 Launch Live WebXR App</strong></a> •
+  <a href="#-demo-video"><strong>📺 Watch Demo Video</strong></a> •
   <a href="#-key-features">Key Features</a> •
   <a href="#-system-architecture">System Architecture</a> •
   <a href="#-industrial-capabilities-matrix">Capabilities</a> •
@@ -35,6 +37,19 @@
 **AURA-OPS** is a zero-install, browser-native WebXR Industrial Digital Twin and Autonomous Telemetry Copilot tailored for **Meta Quest 3 and Meta Quest Pro**. 
 
 Engineered to eliminate multi-million dollar factory downtime events, AURA-OPS reconstructs an articulated 6-axis heavy industrial robotic workcell in stereoscopic 3D. Factory operators can observe live kinematic telemetry, touch and control physical 3D buttons via **Meta Quest 6DoF Hand Tracking**, evaluate thermodynamic stress with a **3-Tier AI Diagnostic Reasoning Copilot**, and dispatch automated **SAP/CMMS maintenance work orders** before catastrophic mechanical failure strikes.
+
+---
+
+## 📺 Demo Video
+
+<div align="center">
+
+[![AURA-OPS MetaVR Showcase](https://img.youtube.com/vi/swjDHoW6uAA/maxresdefault.jpg)](https://youtu.be/swjDHoW6uAA)
+
+<p><em>Click the banner above to watch the official AURA-OPS MetaVR 1080p Showcase Video on YouTube.</em></p>
+<p><strong>Direct YouTube Link</strong>: <a href="https://youtu.be/swjDHoW6uAA">https://youtu.be/swjDHoW6uAA</a></p>
+
+</div>
 
 ---
 
@@ -117,7 +132,7 @@ flowchart TD
 
 ### 🎬 Executive Showcase Video & Voiceover
 > **AURA-OPS Meta VR Start 2026 Executive Overview Video** (1080p MP4 featuring Microsoft Edge Neural TTS narrative):  
-> 📥 **Download Video**: [`./showcase/AURA_OPS_MetaVR_Showcase.mp4`](./showcase/AURA_OPS_MetaVR_Showcase.mp4) • 🎙️ **Voiceover Audio**: [`./showcase/aura_ops_executive_voiceover.mp3`](./showcase/aura_ops_executive_voiceover.mp3)
+> 📺 **Watch on YouTube (1080p)**: [https://youtu.be/swjDHoW6uAA](https://youtu.be/swjDHoW6uAA) • 📥 **Download Video**: [`./showcase/AURA_OPS_MetaVR_Showcase.mp4`](./showcase/AURA_OPS_MetaVR_Showcase.mp4) • 🎙️ **Voiceover Audio**: [`./showcase/aura_ops_executive_voiceover.mp3`](./showcase/aura_ops_executive_voiceover.mp3)
 
 <br />
 
